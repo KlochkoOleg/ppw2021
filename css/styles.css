@@ -14,6 +14,63 @@ body {
     margin-right: 200px;
 }
 
+.telephone {
+    width: 12px;
+}
+
+.alignauto {
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+.start {
+    grid-column-start: 2;
+}
+
+.start2 {
+    grid-column-start: 3;
+}
+
+.start3 {
+    grid-column-start: 4;
+}
+
+.start4 {
+    grid-column-start: 6;
+}
+
+.start5 {
+    grid-column-start: 7;
+}
+
+.start6 {
+    grid-column-start: 8;
+}
+
+.numbers {
+    display: inline-block;
+    font-size: 15px;
+    font-family: sans-serif;
+}
+
+.textloc {
+    margin: 0px;
+    font-size: 15px;
+    font-family: sans-serif;
+}
+
+.align {
+    text-align: center;
+}
+
+.lined {
+    margin-top: 20px;
+    border-top: 2px dashed #000;
+    height: 18px;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
 .header2 {
     display: grid;
     grid-template-columns: 4fr 2fr 2fr 2fr 2fr 2fr;
